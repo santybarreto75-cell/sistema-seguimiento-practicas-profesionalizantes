@@ -84,6 +84,5 @@ Trabajo Integrador Individual de 7.º año – Escuela Técnica.
 
 **Autor:** Santiago Barreto
 
----
 
-*Nota: Las pantallas presentadas son mockups conceptuales realizados con fines académicos y no representan capturas de una aplicación implementada.*
+
