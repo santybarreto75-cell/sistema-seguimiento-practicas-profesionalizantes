@@ -60,16 +60,6 @@ Especificación del caso de uso CU-01: Registrar y enviar avance periódico, con
 ### 5. Interfaz del sistema
 Mockup de la pantalla de registro de avances con referencias explicativas.
 
-## Vista previa
-
-### Diagrama de flujo
-
-
-
-### Interfaz del sistema
-
-
-
 ## Documento completo
 
 [Descargar documentación completa en formato Word](docs/Documentacion_Sistema_Seguimiento_Practicas_Profesionalizantes.docx)
