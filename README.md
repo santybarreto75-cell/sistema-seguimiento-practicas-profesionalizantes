@@ -61,7 +61,7 @@ Mockup de la pantalla de registro de avances con referencias explicativas.
 
 ## Documento completo
 
-[Descargar documentación completa en formato Word](docs/Documentacion_Sistema_Seguimiento_Practicas_Profesionalizantes.docx)
+[Descargar documentación del Sistema de Seguimiento de Prácticas Profesionalizantes](docs/Documentacion_Sistema_Seguimiento_Practicas_Profesionalizantes_FINAL.docx)
 
 ## Estado del proyecto
 
