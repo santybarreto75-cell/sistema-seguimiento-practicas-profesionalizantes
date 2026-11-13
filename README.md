@@ -31,17 +31,16 @@ Desarrollar una plataforma que permita registrar, organizar y supervisar el proc
 ## Contenido del repositorio
 
 ```text
-sistema-seguimiento-practicas-profesionalizantes/
+istema-seguimiento-practicas-profesionalizantes/
 │
 ├── README.md
 │
 ├── docs/
-│   └── Documentacion_Seguimiento_Practicas.docx
+│   └── Documentacion_Sistema_Seguimiento_Practicas_Profesionalizantes_FINAL.docx
 │
 └── img/
     ├── diagrama_flujo_practicas.png
     └── mockup_practicas.png
-```
 
 ## Documentación desarrollada
 
