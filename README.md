@@ -59,11 +59,11 @@ Mockup de la pantalla de registro de avances con referencias explicativas.
 
 ### Diagrama de flujo
 
-![Diagrama de flujo](img/diagrama_flujo_practicas.png)
+
 
 ### Interfaz del sistema
 
-![Mockup de interfaz](img/mockup_practicas.png)
+
 
 ## Documento completo
 
