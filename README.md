@@ -35,11 +35,6 @@ Desarrollar una plataforma que permita registrar, organizar y supervisar el proc
 │   ├── README.md
 │   └── Documentacion_Sistema_Seguimiento_Practicas_Profesionalizantes.docx
 │
-├── img/
-│   ├── README.md
-│   ├── diagrama_flujo_practicas.png
-│   └── mockup_practicas.png
-│
 └── README.md
 ```
 
