@@ -59,10 +59,6 @@ Especificación del caso de uso CU-01: Registrar y enviar avance periódico, con
 ### 5. Interfaz del sistema
 Mockup de la pantalla de registro de avances con referencias explicativas.
 
-## Documento completo
-
-[Descargar documentación del Sistema de Seguimiento de Prácticas Profesionalizantes](docs/Documentacion_Sistema_Seguimiento_Practicas_Profesionalizantes_FINAL.docx)
-
 ## Estado del proyecto
 
 Proyecto académico en etapa de planificación y documentación.
